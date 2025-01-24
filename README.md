@@ -34,16 +34,16 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdujalil-nizomiddinov&theme=github_dark" alt="Productive Time">
 </p>
 
-#### 🔥 Activity Overview & 📈 Streak Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdujalil-nizomiddinov&theme=github-dark-blue&hide_border=true" alt="Coding Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdujalil-nizomiddinov&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub Stats">
-</p>
-
 #### 📉 Repository Breakdown:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdujalil-nizomiddinov&theme=github_dark" alt="Repositories per Language">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdujalil-nizomiddinov&theme=github_dark" alt="Most Commit Language">
+</p>
+
+#### 🔥 Activity Overview & 📈 Streak Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdujalil-nizomiddinov&theme=github-dark-blue&hide_border=true" alt="Coding Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdujalil-nizomiddinov&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub Stats">
 </p>
 
 ---
