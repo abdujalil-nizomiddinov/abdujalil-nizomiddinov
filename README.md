@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Abdujalil!</h1>
+'''''''''''''<h1 align="center">👋 Hi, I'm Abdujalil!</h1>
 <p align="center">Frontend Developer | Web Developer | Businessman | Student</p>
 
 ---
@@ -32,12 +32,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdujalil-nizomiddinov&theme=github_dark" alt="Repositories per Language">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdujalil-nizomiddinov&theme=github_dark" alt="Yearly Stats">
-</p>
-
-#### 📉 Repository Breakdown & 📈 Streak Stats:
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdujalil-nizomiddinov&theme=github_dark" alt="Repositories per Language">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdujalil-nizomiddinov&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub Stats">
 </p>
 
 ---
