@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Abdujalil!</h1>
-<p align="center">Frontend Developer | Learner | Web Enthusiast</p>
+<p align="center">Frontend Developer | Web Developer | Businessman | Student</p>
 
 ---
 
@@ -18,24 +18,9 @@
 ---
 
 ### 📊 GitHub Stats:
-#### 🔥 Activity Overview:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdujalil-nizomiddinov&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub Stats">
-</p>
-
 #### 🛠️ Top Languages:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdujalil-nizomiddinov&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
-</p>
-
-#### 📈 Streak Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdujalil-nizomiddinov&theme=github-dark-blue&hide_border=true" alt="Coding Streak">
-</p>
-
-#### ⏳ Productive Time:
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdujalil-nizomiddinov&theme=github_dark" alt="Productive Time">
 </p>
 
 #### 🖥️ Profile Overview:
@@ -43,16 +28,16 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdujalil-nizomiddinov&theme=github_dark" alt="Profile Overview">
 </p>
 
-#### 📊 Yearly Activity:
+#### ⏳ Productive Time & 📊 Yearly Activity:
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdujalil-nizomiddinov&theme=github_dark" alt="Yearly Stats">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdujalil-nizomiddinov&theme=github_dark" alt="Repositories per Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdujalil-nizomiddinov&theme=github_dark" alt="Yearly Stats">
 </p>
 
-#### 📉 Repository Breakdown:
+#### 📉 Repository Breakdown & 📈 Streak Stats:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdujalil-nizomiddinov&theme=github_dark" alt="Repositories per Language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdujalil-nizomiddinov&theme=github_dark" alt="Most Commit Language">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdujalil-nizomiddinov&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub Stats">
 </p>
 
 ---
@@ -61,8 +46,10 @@
 <p align="center">
   <a href="mailto:abdujalil2107@gmail.com"><img src="https://img.shields.io/badge/Email-abdujalil2107%40gmail.com-red?style=flat&logo=gmail"></a>
   <a href="https://github.com/abdujalil-nizomiddinov"><img src="https://img.shields.io/badge/GitHub-abdujalil--nizomiddinov-181717?style=flat&logo=github"></a>
+  <a href="https://t.me/n1zomiddinov_571"><img src="https://img.shields.io/badge/Telegram-@n1zomiddinov__571-0088cc?style=flat&logo=telegram"></a>
+  <a href="https://instagram.com/n1zomiddinov_571"><img src="https://img.shields.io/badge/Instagram-@n1zomiddinov__571-E4405F?style=flat&logo=instagram"></a>
 </p>
 
 <p align="center">
-  <i>"Code is perfect when it's simple and efficient."</i>
+  <b><i>"Code is not the ultimate goal, it is a small yet essential tool to achieve the goal."</i></b>
 </p>
