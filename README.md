@@ -18,15 +18,15 @@
 ---
 
 ### 📊 GitHub Stats:
-#### 🖥️ Profile Overview:
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdujalil-nizomiddinov&theme=github_dark" alt="Profile Overview">
-</p>
-
 #### 📉 Repository Breakdown & 📊 Yearly Activity:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdujalil-nizomiddinov&theme=github_dark" alt="Repositories per Language">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdujalil-nizomiddinov&theme=github_dark" alt="Yearly Stats">
+</p>
+
+#### 🖥️ Profile Overview:
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdujalil-nizomiddinov&theme=github_dark" alt="Profile Overview">
 </p>
 
 ---
