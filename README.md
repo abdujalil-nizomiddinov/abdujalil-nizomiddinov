@@ -22,14 +22,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdujalil-nizomiddinov&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
 </p>
-#### 🔥 Activity Overview:
+
+#### 🔥 Activity Overview & 📈 Streak Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdujalil-nizomiddinov&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub Stats">
-</p>
-
-
-#### 📈 Streak Stats:
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abdujalil-nizomiddinov&theme=github-dark-blue&hide_border=true" alt="Coding Streak">
 </p>
 
