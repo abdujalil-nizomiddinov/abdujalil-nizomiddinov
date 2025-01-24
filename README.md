@@ -30,7 +30,6 @@
 
 #### ⏳ Productive Time & 📊 Yearly Activity:
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdujalil-nizomiddinov&theme=github_dark" alt="Yearly Stats">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdujalil-nizomiddinov&theme=github_dark" alt="Productive Time">
 </p>
 
