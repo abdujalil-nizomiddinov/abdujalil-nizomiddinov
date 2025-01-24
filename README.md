@@ -18,15 +18,15 @@
 ---
 
 ### 📊 GitHub Stats:
+#### 🛠️ Top Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdujalil-nizomiddinov&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
+</p>
 #### 🔥 Activity Overview:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdujalil-nizomiddinov&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub Stats">
 </p>
 
-#### 🛠️ Top Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdujalil-nizomiddinov&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
-</p>
 
 #### 📈 Streak Stats:
 <p align="center">
