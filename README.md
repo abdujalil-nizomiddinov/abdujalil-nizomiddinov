@@ -52,6 +52,8 @@
 <p align="center">
   <a href="mailto:abdujalil2107@gmail.com"><img src="https://img.shields.io/badge/Email-abdujalil2107%40gmail.com-red?style=flat&logo=gmail"></a>
   <a href="https://github.com/abdujalil-nizomiddinov"><img src="https://img.shields.io/badge/GitHub-abdujalil--nizomiddinov-181717?style=flat&logo=github"></a>
+  <a href="https://t.me/n1zomiddinov_571"><img src="https://img.shields.io/badge/Telegram-@n1zomiddinov__571-0088cc?style=flat&logo=telegram"></a>
+  <a href="https://instagram.com/n1zomiddinov_571"><img src="https://img.shields.io/badge/Instagram-@n1zomiddinov__571-E4405F?style=flat&logo=instagram"></a>
 </p>
 
 <p align="center">
