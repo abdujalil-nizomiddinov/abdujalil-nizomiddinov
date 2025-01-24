@@ -29,15 +29,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abdujalil-nizomiddinov&theme=github-dark-blue&hide_border=true" alt="Coding Streak">
 </p>
 
-#### ⏳ Productive Time:
+#### ⏳ Productive Time & 📊 Yearly Activity:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdujalil-nizomiddinov&theme=github_dark" alt="Productive Time">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdujalil-nizomiddinov&theme=github_dark" alt="Yearly Stats">
 </p>
 
-#### 🖥️ Profile Overview & 📊 Yearly Activity:
+#### 🖥️ Profile Overview:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdujalil-nizomiddinov&theme=github_dark" alt="Profile Overview">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdujalil-nizomiddinov&theme=github_dark" alt="Yearly Stats">
 </p>
 
 #### 📉 Repository Breakdown:
