@@ -12,17 +12,17 @@
 ---
 
 ### 📂 Loyihalarim:
-<a href="https://github.com/abdujalil2107?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Loyihalar-181717?style=flat&logo=github"></a>
+<a href="https://github.com/abdujalil-nizomiddinov?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Loyihalar-181717?style=flat&logo=github"></a>
 
 ---
 
 ### 📊 Statistika:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdujalil2107&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub Statistika">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdujalil-nizomiddinov&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub Statistika">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdujalil2107&theme=github-dark-blue&hide_border=true" alt="Coding Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdujalil-nizomiddinov&theme=github-dark-blue&hide_border=true" alt="Coding Streak">
 </p>
 
 ---
@@ -30,7 +30,7 @@
 ### 🌐 Mening ijtimoiy sahifalarim:
 <p align="center">
   <a href="mailto:abdujalil2107@gmail.com"><img src="https://img.shields.io/badge/Email-abdujalil2107%40gmail.com-red?style=flat&logo=gmail"></a>
-  <a href="https://github.com/abdujalil2107"><img src="https://img.shields.io/badge/GitHub-abdujalil2107-181717?style=flat&logo=github"></a>
+  <a href="https://github.com/abdujalil-nizomiddinov"><img src="https://img.shields.io/badge/GitHub-abdujalil--nizomiddinov-181717?style=flat&logo=github"></a>
 </p>
 
 <p align="center">
