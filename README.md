@@ -57,5 +57,5 @@
 </p>
 
 <p align="center">
-  <i>"Code is perfect when it's simple and efficient."</i>
+  <b><i>"Code is not the ultimate goal, it is a small yet essential tool to achieve the goal."</i></b>
 </p>
