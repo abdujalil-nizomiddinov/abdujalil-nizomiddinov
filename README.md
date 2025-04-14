@@ -9,7 +9,7 @@
 - 🎯 Always eager to learn new things.
 - 🛠️ Focus on design and functionality when creating projects.
 - 📍 Based in Uzbekistan.
-- <a href="https://abdujalil-nizomiddinov.vercel.app/">🌱 My Portfolio.</a>
+- 🌱 <b><a href="https://abdujalil-nizomiddinov.vercel.app/">My Portfolio.</a></b>
 
 ---
 
